@@ -1,0 +1,173 @@
+.intro
+{
+    color: darkblue;
+    font-size: 1.5rem;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+.card1
+{
+    width: 90%; /* Adjust width as needed */
+    max-width: 250px; /* Adjust max-width as needed */
+    height: 410px;
+
+    background-color:white; /* Card background color */
+    border-radius: 10px; /* Adjust border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Card box shadow */
+    margin: 20px;
+    padding: 20px;
+  
+}
+.card1-title {
+    
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: darkblue;
+    font-family: Poppins;
+font-size: 26px;
+font-weight: 500;
+line-height: 27px;
+text-align: left;
+
+  }
+.card1-description {
+    font-size: 18px;
+    color:black; /* Description color */
+    margin-bottom: 15px;
+    font-family: Poppins;
+
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+
+  }
+  .card1-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 0 0 8px
+  }
+/* Style for the button */
+.btn2 {
+    display: inline-block; /* Button background color */
+    color:green; /* Button text color */
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn2 span {
+    margin-left: 5px; /* Spacing between text and arrow */
+  }
+  
+  /* Hover effect for the button */
+  .btn2:hover {
+    background-color:green; /* Button background color on hover */
+  }
+  .card2
+{
+    width: 90%;/* Adjust width as needed */
+    max-width: 250px; /* Adjust max-width as needed */
+    height: 410px;
+
+    background-color:white; /* Card background color */
+    border-radius: 10px; /* Adjust border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Card box shadow */
+    margin: 20px;
+    padding: 20px;
+  
+}
+.card2-title {
+    
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: darkblue;
+    font-family: Poppins;
+font-size: 26px;
+font-weight: 500;
+line-height: 27px;
+text-align: left;
+
+  }
+.card2-description {
+    font-size: 17px;
+    color:black; /* Description color */
+    margin-bottom: 15px;
+    font-family: Poppins;
+
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+
+  }
+  .card2-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 0 0 8px; /* Rounded corners on the left side */
+
+  }
+  .card3
+{
+    width: 90%;/* Adjust width as needed */
+    max-width: 250px; /* Adjust max-width as needed */
+    height: 410px;
+
+    background-color:white; /* Card background color */
+    border-radius: 10px; /* Adjust border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Card box shadow */
+    margin: 20px;
+    padding: 20px;
+  
+}
+.card3-title {
+    
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: darkblue;
+    font-family: Poppins;
+font-size: 26px;
+font-weight: 500;
+line-height: 27px;
+text-align: left;
+
+  }
+.card3-description {
+    font-size: 17px;
+    color:black; /* Description color */
+    margin-bottom: 15px;
+    font-family: Poppins;
+
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+
+  }
+  .card3-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 0 0 8px; /* Rounded corners on the left side */
+
+  }
+
+  .btn3 {
+    display: inline-block; /* Button background color */
+    color:white; /* Button text color */
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    background-color: green;
+  }
+  
+  .btn3 span {
+    margin-left: 5px; /* Spacing between text and arrow */
+  }
+  
+  /* Hover effect for the button */
+  .btn3:hover {
+    background-color:green; /* Button background color on hover */
+  }
